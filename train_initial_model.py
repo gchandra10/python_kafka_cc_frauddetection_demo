@@ -1,0 +1,2 @@
+from ml_model import train_initial_model
+train_initial_model()
